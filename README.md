@@ -2,7 +2,7 @@
 
 Resources for a remote life
 
-*To contribute send just send a pull request*
+**To contribute send just send a pull request**
 
 ## Table of Contents
 
