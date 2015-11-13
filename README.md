@@ -18,3 +18,7 @@ Resources for a remote life
   1. [vidyo.com](http://www.vidyo.com/)
   1. [fuze.com](http://fuze.com)
   1. [www.polycom.com](http://www.polycom.com/)
+
+## Jobs
+
+  1. [awesome-remote-job by ](https://github.com/lukasz-madon/awesome-remote-job)
